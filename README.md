@@ -1,4 +1,4 @@
-# Webpack-setup-html-css-js
+# Webpack5-setup-html-css-js
 
 Configuração de ambiente de desenvolvimento com o Webpack 5 para projetos com Html, CSS e JavaScript.
 
